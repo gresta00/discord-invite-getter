@@ -2,7 +2,7 @@
 A script for easily retrieving Discord invite link information
 # How to Use
 ## How to setup
-Place discord-oauth2.py in the same hierarchy as your main program file.
+Place discord-invite-getter.py in the same hierarchy as your main program file.
 ## Simple usage
 ```
 import discord-invite-getter as dinvite
